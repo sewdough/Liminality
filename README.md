@@ -28,7 +28,7 @@ Liminality is a multimedia glitch effects application built with Python, OpenCV,
 
 ## Installation
 
-I've included an automatic installation script via `install.py` with the source.
+I've included an automatic installation script via `install.py` with the source. (You will need a current version of Python (3.6x) as well as PIP, which comes with 3.4x by default)
 This will create all subdirectories needed that aren't present in the .zip as well as a blank presets.json file, and will automatically install the required pip packages. 
 
 Afterwards, you can run `liminality.py`
