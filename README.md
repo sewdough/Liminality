@@ -3,6 +3,9 @@
 
 Liminality is a multimedia glitch effects application built with Python, OpenCV, PyQt5, and Three.js. It lets you load images, videos, and live feeds from your webcam and applies a variety of real‑time shader effects. You can export your edits into various formats, such as image -> gif / video, randomize effects, and manage presets.
 
+![Liminality Preview](https://i.imgur.com/KpCqVYS.png)
+
+
 
 ## Features
 
